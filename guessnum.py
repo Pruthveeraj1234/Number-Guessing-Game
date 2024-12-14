@@ -1,4 +1,3 @@
-@ -0,0 +1,19 @@
 import random
 def number_guessing_game():
 	X = 2
